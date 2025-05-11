@@ -2,7 +2,7 @@
 
 This project is a deep learning-based system designed to automatically detect violence in video content using frame-based classification. It uses a fine-tuned **MobileNetV2** model and provides a user-friendly **Streamlit** web application for real-time or uploaded video analysis.
 
----
+
 
 ## 📌 Features
 
@@ -13,7 +13,7 @@ This project is a deep learning-based system designed to automatically detect vi
 - 📊 Streamlit-based interactive interface
 - 💾 Pre-trained model included
 
----
+
 
 ## 🧠 Model Details
 
@@ -21,7 +21,7 @@ This project is a deep learning-based system designed to automatically detect vi
 - **Training Type:** Frame-based classification on violent/non-violent video clips
 - **Libraries Used:** TensorFlow, Keras, OpenCV, NumPy, Streamlit
 
----
+
 
 ## 📂 Project Structure
 
