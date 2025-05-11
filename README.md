@@ -46,6 +46,7 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 3️⃣ Install Dependencies
 
 pip install -r requirements.txt
+
 Or manually:
 
 pip install streamlit opencv-python tensorflow keras numpy matplotlib
